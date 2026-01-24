@@ -34,8 +34,6 @@ High-concurrency ticketing system designed to safely handle simultaneous purchas
 - Built secure **QR-based ticket validation**
 
 **Tech:** Java · Spring Boot · PostgreSQL · Keycloak · Docker  
-🔗 https://github.com/PrpCena/REPO_NAME
-
 ---
 
 #### 🍽 Restaurant Review Platform
@@ -46,8 +44,6 @@ Search-driven platform with geospatial and fuzzy text search.
 - Fully containerized multi-service architecture
 
 **Tech:** Java · Spring Boot · Elasticsearch · Next.js · Docker  
-🔗 https://github.com/PrpCena/REPO_NAME
-
 ---
 
 #### ✍️ Full-Stack Blog Platform
@@ -58,8 +54,6 @@ JWT-secured CMS supporting draft and published content workflows.
 - Reduced API boilerplate using **MapStruct & Lombok**
 
 **Tech:** Java · Spring Boot · React · JWT  
-🔗 https://github.com/PrpCena/REPO_NAME
-
 ---
 
 ### 📊 Problem Solving
